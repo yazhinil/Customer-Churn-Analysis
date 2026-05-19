@@ -12,7 +12,7 @@ This is an SQL and Power BI project analyzing telecom customer churn trends and 
 
 ## Key Insights
 
--Customers with month-to-month contracts had the highest churn rate because they can leave the service more easily.
+- Customers with month-to-month contracts had the highest churn rate because they can leave the service more easily.
 
   **Solution:** Give discounts or special offers to encourage long-term contracts.
 
